@@ -1,0 +1,14 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\bin\Debug\net7.0\Assignment_Human.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\bin\Debug\net7.0\Assignment_Human.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\bin\Debug\net7.0\Assignment_Human.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\bin\Debug\net7.0\Assignment_Human.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\bin\Debug\net7.0\Assignment_Human.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\refint\Assignment_Human.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\Assignment_Human.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\Assignment_Human\obj\Debug\net7.0\ref\Assignment_Human.dll
